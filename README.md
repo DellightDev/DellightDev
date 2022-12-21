@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Delight
 - 🌱 I’m always learning new things haha
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 2023 Goals: You'll see ...
 - 👀 Hobbies: Dancing and Content creation
 
 <!---
