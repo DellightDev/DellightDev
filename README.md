@@ -1,6 +1,5 @@
 # Hello World, I’m Delight 👋🏽
-Website under construction❌
-
+Check out my website (https://delightech.netlify.app/)
 ## I'm a Student and Developer!!
 
 - 👩🏽‍💻 I am currently doing my last year in Software Development
