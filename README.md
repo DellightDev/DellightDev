@@ -1,11 +1,11 @@
 # Hello World, I’m Delight 👋🏽
 Check out my website (https://delightech.netlify.app/)
-## I'm a Student and Developer!!
+## I'm a Software Developer!!
 
-- 👩🏽‍💻 I am currently doing my last year in Software Development
+- 👩🏽‍💻 Software Engineering Graduate
 - 🌱 I am always learning everything haha
-- 💌 2023 Goals: Upload more content on my social media
-- ⚡️ Hobbies: Creating playlists and Watching Reality TV Shows
+- 💌 2024 Goals: In progress ...
+- ⚡️ Hobbies: Creating playlists on Tiktok, Cooking and Watching Reality TV Shows
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr  | LinkedIn" width="22px"
