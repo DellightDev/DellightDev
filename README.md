@@ -1,5 +1,5 @@
 # Hello World, I’m Delight 👋🏽
-Check out my website (https://delightech.netlify.app/)
+Check out my website (https://dellightech.netlify.app/)
 ## I'm a Software Developer!!
 
 - 👩🏽‍💻 Software Engineering Graduate
